@@ -33,8 +33,11 @@ design:
   flip_alt_rows: false
 ---
 The Society of Multivariate Experimental Psychology 2020 SMEP Underrepresented Student Workshop Travel Award.
+
 Shaon Lahiri: $455.
+
 2020
+
 
 
 
