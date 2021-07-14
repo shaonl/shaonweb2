@@ -39,9 +39,18 @@ design:
 Snowden, B., <b>Lahiri, S.</b>, Dutton, R., & Morton, L. Achieving and Sustaining Change Through Capacity Building Train-the-Trainer Health Initiatives in Low- and Middle-Income Countries: A Systematic Review. Under review at the <i>Global Health: Science and Practice</i>. 
 <small>This study systematically reviews the evidence for sustainable and effective training approaches for global health intervention cadres. </small> 
 
-<b>Lahiris, S.</b>, Bingenheimer, J., Sedlander, E., Munar, W., & Rimal, R. The Role of Social Norms on Adolescent Family Planning in Rural
+<b>Lahiri, S.</b>, Bingenheimer, J., Sedlander, E., Munar, W., & Rimal, R. The Role of Social Norms on Adolescent Family Planning in Rural
 Kilifi County, Kenya. Under review at the <i>Journal of Adolescent Health</i>. 
 <small> Using sociocentric social network data, this study estimates the social influence of important others on individual modern contraceptive use among adolescents in rural Kenya. </small>
+
+<b>Lahiri, S. </b> & Munoz-Boudet, A. M. Social Norms Measurement and Analysis: Some Approaches and Applications. In preparation for submittion to <i>World Bank Working Paper Series</i>. 
+<small> This working paper presents an overview of prominent measurement social norms measurement approaches, as well as a suite of diverse analytical approaches with applications in Stata using social norms data from World Bank projects in Jordan, Morocco, and Kurdistan. </small>
+
+<b>Lahiri, S. </b>, Hull, S., Scott, R., Sinks, H, & Chandler, R. Leveraging Small Samples Using a Bayesian Approach in Communications Studies. In preparation for submission to <i> Communications Methods and Measures </i>. 
+<small> This study demonstrates the utility of Bayesian regression for small samples using data from a study on determinants of Pre-Exposure Prophylaxis (PrEP) self-efficacy among a sample of Black women attending a clinic in Washington DC.
+ 
+Levtov, R., Doyle, K., Bingenheimer, J., <b>Lahiri, S.</b>, Kazimbaya, S., Karamage, E., Sayinzoga, F., et al. Investigation of Mechanisms Underlying the Bandebereho Couple Intervention in Rwanda to Prevent Intimate Partner Violence. In preparation for submission to <i> Prevention Science </i>. 
+<small> Using data from a longitudinal field trial, this study investigates the treatment effects from an intimate partner violence prevention intervention among couples in Rwanda using stuctural equation modeling. </small>
 
 
 
