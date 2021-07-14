@@ -8,7 +8,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 17
+weight: 30
 
 title: Publications
 subtitle: ''
@@ -38,6 +38,4 @@ design:
   view: 4
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+
