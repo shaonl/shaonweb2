@@ -24,8 +24,8 @@ feature:
 
 - description: Data wrangling & management, statistical analysis, data visualization.
   icon: stata
-  icon_pack: custom
-  name: Stata
+  icon_pack: brands
+  name: stata
 
 
 # Uncomment to use emoji icons.
