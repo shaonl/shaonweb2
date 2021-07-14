@@ -54,7 +54,7 @@ social:
   link: https://scholar.google.com/citations?hl=en&user=Tq0OA8MAAAAJ&inst=4307253268406932729
 - icon: github
   icon_pack: fab
-  link: https://github.com/ShaonLahiri
+  link: https://github.com/shaonl
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/shaon-lahiri-131aaa97/
@@ -73,6 +73,7 @@ email: ""
 highlight_name: false
 ---
 
-Hi, I'm a social and behavioral scientist in the field of public health. I study social processes across a number of behaviors that impact health, such as modern contraceptive use, intimate partner violence, Pre-Exposure Prophylaxis use, and tobacco consumption. My focus area is on the measurement, conceptualization, and influence of social norms on behavior across a variety of settings and contexts. 
+I am a social and behavioral scientist in the field of public health. I study social processes across a number of behaviors that impact health, such as modern contraceptive use, intimate partner violence, Pre-Exposure Prophylaxis use, and tobacco consumption. My focus area is on the measurement, conceptualization, and influence of social norms on behavior across a variety of settings and contexts. 
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Shaon_Lahiri_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
