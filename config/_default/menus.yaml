@@ -16,6 +16,9 @@ main:
   - name: Grants/Awards
     url: '#grants'
     weight: 40
+  - name: Skills
+    url: '#skills'
+    weight: 50
 
 
 
