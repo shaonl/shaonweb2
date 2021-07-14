@@ -8,7 +8,7 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 30
-active: true
+active: false
 
 title: Works in Progress
 subtitle: 'Manuscripts under review or in preparation'
