@@ -32,14 +32,17 @@ feature:
 - description: Reference management
   name: Zotero
 
-- description: Systematic review screening
-  name: Covidence
+- description: Evidence synthesis
+  name: Systematic review, meta-analysis, Covidence, Endnote, quality assessment
   
-- description: General linear model, mixed effects modeling, Bayesian regression, latent variable modeling, factor analysis, meta-analysis
+- description: General linear model, mixed effects modeling, Bayesian regression, latent variable modeling, factor analysis, treatment effect estimation
   name: Statistical analysis
 
 - description: Selection of appropriate measures, development of appropriate measures, split half design, psychometric assessment
   name: Survey design
+ 
+- description: Case studies, use of qualitative research in impact evaluation, coding, key informant interviews
+  name: Qualitative research
 
 
 # Uncomment to use emoji icons.
