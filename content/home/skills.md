@@ -32,8 +32,8 @@ feature:
 - description: Reference management
   name: Zotero
 
-- description: Evidence synthesis
-  name: Systematic review, meta-analysis, Covidence, Endnote, quality assessment
+- description: Systematic review, meta-analysis, Covidence, Endnote, quality assessment
+  name: Evidence synthesis 
   
 - description: General linear model, mixed effects modeling, Bayesian regression, latent variable modeling, factor analysis, treatment effect estimation
   name: Statistical analysis
