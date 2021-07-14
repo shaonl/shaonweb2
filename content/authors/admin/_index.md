@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Shaon Lahiri
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate, Social & Behavioral Sciences in Public Health
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Milken Institute School of Public Health, George Washington University
+  url: https://publichealth.gwu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research is focused on the social determinants of health, particularly how social norms influence behavior.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Social Norms and Behavior
+- Reducing Health Disparities
+- Implementation & Design of Global Health Interventions
 
 # Education to show in About widget
 education:
