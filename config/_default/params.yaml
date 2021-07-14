@@ -36,6 +36,10 @@ contact_links:
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/ShaonLahiri'
+  - icon: linkedin
+    icon_pack: fab
+    name: Message me on Linkedin
+    link: 'https://www.linkedin.com/in/shaon-lahiri-131aaa97/'
 
 
 # Site header
