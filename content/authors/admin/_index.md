@@ -58,6 +58,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/shaon-lahiri-131aaa97/
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0001-9797-9566
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -73,7 +76,9 @@ email: ""
 highlight_name: false
 ---
 
-I am a social and behavioral scientist in the field of public health. I study social processes across a number of behaviors that impact health, such as modern contraceptive use, intimate partner violence, Pre-Exposure Prophylaxis use, and tobacco consumption. My focus area is on the measurement, conceptualization, and influence of social norms on behavior across a variety of settings and contexts. 
+I am a social and behavioral scientist in the field of public health. I study social processes across a number of behaviors that impact health, such as modern contraceptive use, intimate partner violence, Pre-Exposure Prophylaxis use, and tobacco consumption. My focus area is on the measurement, conceptualization, and influence of social norms on behavior across a variety of settings and contexts.
+
+I focus on bridging health behavior theory with a range of rigorous quantitative statistical approaches. Currently, I am most interested in latent variable methods for longitudinal data (traditional SEMs and latent growth models), Bayesian regression (especially using informative priors), factor analysis, and meta-analysis.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Shaon_Lahiri_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
