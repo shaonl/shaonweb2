@@ -33,15 +33,18 @@ design:
   flip_alt_rows: false
 ---
   
-1. <b>Lahiri, S.</b>, Bingenheimer, J., & Costenbader, E. Social and Gender Norms Influencing Sexual and Reproductive Health: Conceptual Approaches, Intervention Strategies, and Evidence. Under review at the <i>Oxford Research Encyclopedia of Global Public Health</i>. 
+<b>Lahiri, S.</b>, Bingenheimer, J., & Costenbader, E. Social and Gender Norms Influencing Sexual and Reproductive Health: Conceptual Approaches, Intervention Strategies, and Evidence. Under review at the <i>Oxford Research Encyclopedia of Global Public Health</i>. 
 <small>This chapter provides a brief overview of social norms conceptual/theoretical approaches used in the field of sexual and reproductive health, followed by an illustration of intervention approaches targeted at different socioecological levels. </small> 
 
-2. Snowden, B., <b>Lahiri, S.</b>, Dutton, R., & Morton, L. Achieving and Sustaining Change Through Capacity Building Train-the-Trainer Health Initiatives in Low- and Middle-Income Countries: A Systematic Review. Under review at the <i>Global Health: Science and Practice</i>. 
+Snowden, B., <b>Lahiri, S.</b>, Dutton, R., & Morton, L. Achieving and Sustaining Change Through Capacity Building Train-the-Trainer Health Initiatives in Low- and Middle-Income Countries: A Systematic Review. Under review at the <i>Global Health: Science and Practice</i>. 
 <small>This study systematically reviews the evidence for sustainable and effective training approaches for global health intervention cadres. </small> 
 
-3. <b>Lahiris, S.</b>, Bingenheimer, J., Sedlander, E., Munar, W., & Rimal, R. The Role of Social Norms on Adolescent Family Planning in Rural
+<b>Lahiris, S.</b>, Bingenheimer, J., Sedlander, E., Munar, W., & Rimal, R. The Role of Social Norms on Adolescent Family Planning in Rural
 Kilifi County, Kenya. Under review at the <i>Journal of Adolescent Health</i>. 
 <small> Using sociocentric social network data, this study estimates the social influence of important others on individual modern contraceptive use among adolescents in rural Kenya. </small>
+
+
+
 
 
 
