@@ -7,12 +7,16 @@ main:
   - name: About
     url: '#about'
     weight: 10
-  - name: Works in Progress
-    url: '#projects'
-    weight: 30
   - name: Publications
     url: '#publications'
     weight: 20
+  - name: Works in Progress
+    url: '#projects'
+    weight: 30
+  - name: Grants/Awards
+    url: '#grants'
+    weight: 40
+
 
 
 # Link to a PDF of your resume/CV from the menu.
