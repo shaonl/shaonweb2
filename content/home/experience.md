@@ -106,32 +106,32 @@ experience:
         * Administrative support for implementation of program activities in health, education, and social development.
  
    - title: Psychiatric Intern
-    company: Sultan Qaboos University Hospital
-    company_url: 'https://www.squ.edu.om/squh/Home/DG-Message'
-    company_logo: ''
-    location: Muscat, Oman
-    date_start: '2013-02-01'
-    date_end: '2013-04-01'
-    description: |2-
+     company: Sultan Qaboos University Hospital
+     company_url: 'https://www.squ.edu.om/squh/Home/DG-Message'
+     company_logo: ''
+     location: Muscat, Oman
+     date_start: '2013-02-01'
+     date_end: '2013-04-01'
+     description: |2-
         Responsibilities include:
-       
-        * Administrative support to resident psychiatrist during individual client sessions.
-        * Manuscript review for mental health projects in the Middle East.
-        * Co-authoring publication on complimentary and alternative treatment for epilepsy in Oman.
+          
+          * Administrative support to resident psychiatrist during individual client sessions.
+          * Manuscript review for mental health projects in the Middle East.
+          * Co-authoring publication on complimentary and alternative treatment for epilepsy in Oman.
         
    - title: Research Assistant
-    company: Addiction Research Center, University of Michigan
-    company_url: 'https://medicine.umich.edu/dept/psychiatry/programs/addiction-center/addiction-center-research'
-    company_logo: ''
-    location: Washington, DC
-    date_start: '2010-09-01'
-    date_end: '2012-05-01'
-    description: |2-
+     company: Addiction Research Center, University of Michigan
+     company_url: 'https://medicine.umich.edu/dept/psychiatry/programs/addiction-center/addiction-center-research'
+     company_logo: ''
+     location: Washington, DC
+     date_start: '2010-09-01'
+     date_end: '2012-05-01'
+     description: |2-
         Responsibilities include:
         
-        * Data entry and cleaning for longitudinal project on alcohol dependent individuals.
-        * Literature reviews related to alcohol addiction trajectories.
-        * Research assistance for qualitative study on the use of positive psychology in treatment manuals for alcohol dependence.
+         * Data entry and cleaning for longitudinal project on alcohol dependent individuals.
+         * Literature reviews related to alcohol addiction trajectories.
+         * Research assistance for qualitative study on the use of positive psychology in treatment manuals for alcohol dependence.
    
 
 design:
