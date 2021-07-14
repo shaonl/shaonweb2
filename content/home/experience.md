@@ -55,7 +55,7 @@ experience:
     company_url: 'https://publichealth.gwu.edu'
     company_logo: ''
     location: Washington, DC
-    date_start: '2019-05-01'
+    date_start: '2019-05-15'
     date_end: '2019-07-31'
     description: |2-
         Responsibilities include:
