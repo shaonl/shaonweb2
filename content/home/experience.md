@@ -5,12 +5,12 @@ widget: experience
 
 # This file represents a page section.
 headless: true
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 19
 
-title: Experience
+title: Work Experience
 subtitle:
 
 # Date format for experience
@@ -22,8 +22,13 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: Graduate Teaching Assistant
+
+
+design:
+  columns: '2'
+---
+
+- title: Graduate Teaching Assistant
     company: Milken Institute School of Public Health, George Washington University
     company_url: ''
     company_logo: ''
@@ -44,7 +49,3 @@ experience:
     location: Washington DC, USA
     date_start: 'Summer 2020'
     description: ''
-
-design:
-  columns: '2'
----
