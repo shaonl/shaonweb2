@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 18
+weight: 30
 active: true
 
 title: Works in Progress
@@ -30,8 +30,10 @@ content:
     tag: '*'
   - name: Methodology
     tag: Deep Learning
-  - name: Family Planning
+  - name: Sexual & Reproductive Health
     tag: Demo
+  - name: Implementation Science
+    tag: impsci
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
