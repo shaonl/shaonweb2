@@ -61,6 +61,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-9797-9566
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/yc5vf/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
