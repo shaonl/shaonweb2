@@ -26,16 +26,16 @@ experience:
   - title: Graduate Teaching Assistant
     company: Milken Institute School of Public Health, George Washington University
     company_url: ''
-    company_logo: org-gc
+    company_logo: milken
     location: Washington, DC
     date_start: '2018-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Developing course content such as activities, tests, quizzes, etc.
+        * Leading discussions and teaching activities
+        * Grading, meeting with students, teaching SPSS
         
   - title: Professor of Semiconductor Physics
     company: University X
