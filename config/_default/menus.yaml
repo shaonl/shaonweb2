@@ -28,6 +28,9 @@ main:
   - name: Contact
     url: '#contact'
     weight: 100
+  - name: CV
+    url: 'uploads/Shaon_Lahiri_CV.pdf'
+    weight: 120
 
 
 
