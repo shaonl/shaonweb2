@@ -105,6 +105,19 @@ experience:
         * Supporting development of partnerships with private sector on behalf of line ministries.
         * Administrative support for implementation of program activities in health, education, and social development.
 
+  - title: Psychiatric Intern
+    company: Sultan Qaboos University Hospital
+    company_url: 'https://www.squ.edu.om/squh/Home/DG-Message'
+    company_logo: ''
+    location: Muscat, Oman
+    date_start: '2013-02-01'
+    date_end: '2013-04-01'
+    description: |2-
+       Responsibilities include:
+        
+        * Administrative support to resident psychiatrist during individual client sessions.
+        * Manuscript review for mental health projects in the Middle East.
+        * Co-authoring publication on complimentary and alternative treatment for epilepsy in Oman.
    
 
 
