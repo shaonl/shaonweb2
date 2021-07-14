@@ -38,3 +38,9 @@ design:
   view: 4
 ---
 
+authors:
+  - admin
+ 
+date: "2021"
+
+publication: This is a test.
