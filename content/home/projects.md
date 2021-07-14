@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Works in Progress
-subtitle: ''
+subtitle: 'Manuscripts under review or in preparation'
 
 content:
   # Page type to display. E.g. project.
@@ -27,9 +27,9 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
+  - name: Methodology
     tag: Deep Learning
-  - name: Other
+  - name: Family Planning
     tag: Demo
 
 design:
