@@ -83,5 +83,7 @@ I am a social and behavioral scientist in the field of public health. I study so
 
 I focus on bridging health behavior theory with a range of rigorous quantitative statistical approaches. Currently, I am most interested in latent variable methods for longitudinal data (traditional SEMs and latent growth models), Bayesian regression (especially using informative priors), factor analysis, and meta-analysis.
 
+<b>I am on the job market for Fall 2022! Please consider hiring me for academia or industry positions related to public health behavior research!</b>
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Shaon_Lahiri_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
