@@ -37,7 +37,7 @@ experience:
         * Leading discussions and teaching activities
         * Grading, meeting with students, teaching SPSS
         
-    - title: Short-Term Consultant
+  - title: Short-Term Consultant
     company: Mind, Behavior, Development group, The World Bank
     company_url: 'https://www.worldbank.org/en/programs/embed'
     company_logo: ''
