@@ -38,6 +38,9 @@ feature:
 - description: General linear model, mixed effects modeling, Bayesian regression, latent variable modeling, factor analysis, meta-analysis
   name: Statistical analysis
 
+- description: Selection of appropriate measures, development of appropriate measures, split half design, psychometric assessment
+  name: Survey design
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
