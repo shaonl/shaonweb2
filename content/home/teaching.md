@@ -7,11 +7,11 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 50
 active: true
 
-title: Works in Progress
-subtitle: 'Manuscripts under review or in preparation'
+title: Teaching Experience
+subtitle: 'Time periods indicate semesters (~ 3 months)'
 
 content:
   # Page type to display. E.g. project.
@@ -33,7 +33,8 @@ design:
   flip_alt_rows: false
 ---
 
-PUBH 6504: Social & Behavioral Science Research Methods (Master's)
+Social & Behavioral Science Research Methods (Master's). Teaching assistant. General linear modeling concepts, applications in SPSS, 
+data analysis, and introduce to scale development.
 
 <ol>
   <li> Fall 2018 (In-Person) </li>
@@ -41,5 +42,10 @@ PUBH 6504: Social & Behavioral Science Research Methods (Master's)
   <li> Fall 2020 (Online) </li>
 </ol>
 
+Social & Behavioral Approaches to Health (Master's). Teaching Assistant. Overview of health behavior theories and program planning concepts.
 
-
+<ol>
+  <li> Spring 2019 (In-Person) </li>
+  <li> Spring 2020 (Hybrid) </li>
+  <li> Spring 2021 (Online) </li>
+</ol>
