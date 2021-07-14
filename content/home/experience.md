@@ -46,8 +46,9 @@ experience:
     date_end: '2020-07-31'
     description: |2-
         Responsibilities include:
-        Survey design and data analysis for internet survey on social norms around household behaviors and COVID-19 
-        socio-environmental impacts conducted in Jordan, Tunisia, and Morocco.
+       
+        * Survey design and data analysis for internet survey on social norms around household behaviors and COVID-19 impacts conducted in Jordan, Tunisia, and Morocco.
+        * Preparation of working paper on social norms measurement and analysis approaches.
 
 design:
   columns: '2'
