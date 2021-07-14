@@ -18,14 +18,25 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Data wrangling & management, statistical analysis, data visualization, manuscript preparation.
-  icon: r-project
-  icon_pack: fab
   name: R/RStudio/RMarkdown
 
 - description: Data wrangling & management, statistical analysis, data visualization.
-  icon: stata
-  icon_pack: brands
-  name: stata
+  name: Stata
+
+- description: Data wrangling & management, statistical analysis
+  name: SPSS
+  
+- description: Qualitative coding and analysis, basic visualization
+  name: NVivo
+  
+- description: Reference management
+  name: Zotero
+
+- description: Systematic review screening
+  name: Covidence
+  
+- description: General linear model, mixed effects modeling, Bayesian regression, latent variable modeling, factor analysis, meta-analysis
+  name: Statistical analysis
 
 
 # Uncomment to use emoji icons.
