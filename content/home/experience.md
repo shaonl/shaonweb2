@@ -28,7 +28,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Washington, DC
-    date_start: '2018'
+    date_start: 'September 2018'
     date_end: ''
     description: |2-
         Responsibilities include: ''
@@ -39,9 +39,10 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Washington, DC
-    date_start: 'Summer 2020'
-    date_end: ''
-    description: ''
+    date_start: 'May 2020'
+    date_end: 'July 2020'
+    description: |2-
+        Responsibilities include: ''
 
 design:
   columns: '2'
