@@ -7,7 +7,8 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 18
+active: true
 
 title: Works in Progress
 subtitle: 'Manuscripts under review or in preparation'
