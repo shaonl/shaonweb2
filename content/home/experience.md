@@ -91,6 +91,20 @@ experience:
         * Grant writing for multiple evidence generation programs.
         * Authoring two systematic reviews.
 
+  - title: Project Assistant
+    company: UNICEF Oman
+    company_url: 'https://www.unicef.org/topics/oman'
+    company_logo: ''
+    location: Muscat, Oman
+    date_start: '2014-09-01'
+    date_end: '2015-09-01'
+    description: |2-
+        Responsibilities include:
+
+        * Project assistance and knowledge management for development of a national strategy on social development.
+        * Supporting development of partnerships with private sector on behalf of line ministries.
+        * Administrative support for implementation of program activities in health, education, and social development.
+
 design:
   columns: '2'
 ---
