@@ -18,25 +18,6 @@ org_name: ''
 description: ''
 twitter: ''
 
-# Contact (edit or remove options as required)
-
-email: shaon@gwu.edu
-address:
-  street: 950 New Hampshire Ave NW #2
-  city: Washington
-  region: DC
-  postcode: '20052'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '38.902058'
-  longitude: '-77.051017'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/ShaonLahiri'
-
 
 # Site header
 
