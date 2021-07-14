@@ -25,8 +25,8 @@ date_format: Jan 2006
 experience:
   - title: Graduate Teaching Assistant
     company: Milken Institute School of Public Health, George Washington University
-    company_url: ''
-    company_logo: milken
+    company_url: 'https://publichealth.gwu.edu'
+    company_logo: ''
     location: Washington, DC
     date_start: '2018-09-01'
     date_end: ''
