@@ -28,21 +28,23 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Washington, DC
-    date_start: 'September 2018'
+    date_start: '2018-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include: ''
+        Responsibilities include:
         
+        * Analysing
+        * Modelling
+        * Deploying
         
-  - title: Short-Term Consultant
-    company: Mind, Behavior, Development (eMBeD) group, The World Bank
+  - title: Professor of Semiconductor Physics
+    company: University X
     company_url: ''
     company_logo: org-x
-    location: Washington, DC
-    date_start: 'May 2020'
-    date_end: 'July 2020'
-    description: |2-
-        Responsibilities include: ''
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
