@@ -31,7 +31,7 @@ education:
   - course: Master of Public Health (Global Health Stream)
     institution: Imperial College London
     year: 2014
-  - couse: Certificate in Developing Health Systems
+  - course: Certificate in Developing Health Systems
     institution: WHO Collaborating Center at Imperial College London
     year: 2014
   - course: Bachelor of Arts in Psychology
