@@ -36,7 +36,11 @@ The Society of Multivariate Experimental Psychology 2020 SMEP Underrepresented S
 
 Berkeley Initiative for Transparency in the Social Sciences (BITSS) acceptance to Research Transparency and Reproducibility Training. (2020). Recipient: Shaon Lahiri. Tuition Waver and Acceptance to Training. 
 
-[William & Flora Hewlett Foundation grant for the West Africa Capacity building and Impact Evaluation program](https://hewlett.org/grants/international-initiative-for-impact-evaluation-for-support-of-3ies-west-africa-capacity-building-and-impact-evaluation-initiative/). (2017). Recipient: International Initiative for Impact Evaluation (3ie). $940,000. Co-author of grant. 
+[William & Flora Hewlett Foundation grant for the West Africa Capacity building and Impact Evaluation program](https://hewlett.org/grants/international-initiative-for-impact-evaluation-for-support-of-3ies-west-africa-capacity-building-and-impact-evaluation-initiative/). (2017). Recipient: International Initiative for Impact Evaluation (3ie). Co-author of grant. $940,000.
+
+[Bill & Melinda Gates Foundation (grant: OPP1148651) for “Promoting Latrine Use in Rural India” program](https://www.gatesfoundation.org/about/committed-grants/2016/06/opp1148651). (2016). Recipient: International Initiative for Impact Evaluation (3ie). Co-author of grant. $3,044,397.
+
+Imperial College London Prize for Best Dissertation among MPH Cohort. (2014). Recipient: Shaon Lahiri.
 
 
 
