@@ -47,8 +47,8 @@ Kilifi County, Kenya. Under review at the <i>Journal of Adolescent Health</i>.
 <small> This working paper presents an overview of prominent measurement social norms measurement approaches, as well as a suite of diverse analytical approaches with applications in Stata using social norms data from World Bank projects in Jordan, Morocco, and Kurdistan. </small>
 
 <b>Lahiri, S. </b>, Hull, S., Scott, R., Sinks, H, & Chandler, R. Leveraging Small Samples Using a Bayesian Approach in Communications Studies. In preparation for submission to <i> Communications Methods and Measures </i>. 
-<small> This study demonstrates the utility of Bayesian regression for small samples using data from a study on determinants of Pre-Exposure Prophylaxis (PrEP) self-efficacy among a sample of Black women attending a clinic in Washington DC.
- 
+<small> This study demonstrates the utility of Bayesian regression for small samples using data from a study on determinants of Pre-Exposure Prophylaxis (PrEP) self-efficacy among a sample of Black women attending a clinic in Washington DC. </small>
+
 Levtov, R., Doyle, K., Bingenheimer, J., <b>Lahiri, S.</b>, Kazimbaya, S., Karamage, E., Sayinzoga, F., et al. Investigation of Mechanisms Underlying the Bandebereho Couple Intervention in Rwanda to Prevent Intimate Partner Violence. In preparation for submission to <i> Prevention Science </i>. 
 <small> Using data from a longitudinal field trial, this study investigates the treatment effects from an intimate partner violence prevention intervention among couples in Rwanda using stuctural equation modeling. </small>
 
