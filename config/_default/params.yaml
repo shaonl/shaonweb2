@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: classic
+theme: coffee
 day_night: true
 font: ''
 font_size: L
@@ -53,9 +53,9 @@ edit_page:
     post: false
     book: false
 show_related:
-  book: true
+  book: false
   page: false
-  post: true
+  post: false
   project: true
   publication: true
   event: true
