@@ -64,7 +64,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/cv.pdf
+#   link: uploads/Shaon_Lahiri_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -75,4 +75,4 @@ highlight_name: false
 
 Hi, I'm a social and behavioral scientist in the field of public health. I study social processes across a number of behaviors that impact health, such as modern contraceptive use, intimate partner violence, Pre-Exposure Prophylaxis use, and tobacco consumption. My focus area is on the measurement, conceptualization, and influence of social norms on behavior across a variety of settings and contexts. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Shaon_Lahiri_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
