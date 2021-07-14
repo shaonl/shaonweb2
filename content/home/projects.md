@@ -17,9 +17,6 @@ content:
   # Page type to display. E.g. project.
   page_type: project
 
-  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
-
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -30,13 +27,19 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
 
-Test1 
+<b>Lahiri, S.</b>, Bingenheimer, J., & Costenbader, E. Social and Gender Norms Influencing Sexual and Reproductive
+Health: Conceptual Approaches, Intervention Strategies, and Evidence. Under review at the <i>Oxford Research Encyclopedia of Global Public Health</i>. 
 
-Test2
+    This chapter provides a brief overview of social norms conceptual/theoretical approaches used in the field of sexual and reproductive health, followed by an illustration of     intervention approaches targeted at different socioecological levels. 
 
+
+Snowden, B., <b>Lahiri, S.</b>, Dutton, R., & Morton, L. Achieving and Sustaining Change Through Capacity Building Trainthe-
+Trainer Health Initiatives in Low- and Middle-Income Countries: A Systematic Review. Under review at the <i>Global Health: Science and Practice</i>.
+
+    This study systematically reviews the evidence for sustainable and effective training approaches for global health intervention cadres.
