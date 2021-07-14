@@ -62,7 +62,20 @@ experience:
    
         * Social & Behavior Change Communication (SBCC) Landscape review with colleagues from UNICEF, John Hopkins University, and New York University.
         * Screening and data extraction of international SBCC interventions.
+       
+  - title: Short-Term Consultant
+    company: Mind, Behavior, Development group, The World Bank
+    company_url: 'https://www.worldbank.org/en/programs/embed'
+    company_logo: ''
+    location: Washington, DC
+    date_start: '2019-05-01'
+    date_end: '2019-07-31'
+    description: |2-
+        Responsibilities include:
 
+        * Statistical analysis of social norms data from projects in Jordan, Kurdistan, and Republic of Georgia.
+        * Estimation of treatment effects from intervention to reduce fertility bias in Republic of Georgia.
+        * Sole-authoring working paper on social norms measurement and analysis approaches. 
 
 design:
   columns: '2'
