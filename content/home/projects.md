@@ -36,7 +36,7 @@ design:
 <b>Lahiri, S.</b>, Bingenheimer, J., & Costenbader, E. Social and Gender Norms Influencing Sexual and Reproductive
 Health: Conceptual Approaches, Intervention Strategies, and Evidence. Under review at the <i>Oxford Research Encyclopedia of Global Public Health</i>. 
 
-This chapter provides a brief overview of social norms conceptual/theoretical approaches used in the field of sexual and reproductive health, followed by an illustration of     intervention approaches targeted at different socioecological levels. 
+<small>This chapter provides a brief overview of social norms conceptual/theoretical approaches used in the field of sexual and reproductive health, followed by an illustration of intervention approaches targeted at different socioecological levels </small>. 
 
 
 Snowden, B., <b>Lahiri, S.</b>, Dutton, R., & Morton, L. Achieving and Sustaining Change Through Capacity Building Trainthe-
