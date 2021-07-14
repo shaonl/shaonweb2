@@ -27,7 +27,7 @@ experience:
     company: Milken Institute School of Public Health, George Washington University
     company_url: 'https://publichealth.gwu.edu'
     company_logo: ''
-    location: Washington, DC
+    location: Washington, DC, USA
     date_start: '2018-09-01'
     date_end: ''
     description: |2-
@@ -41,7 +41,7 @@ experience:
     company: Mind, Behavior, Development group, The World Bank
     company_url: 'https://www.worldbank.org/en/programs/embed'
     company_logo: ''
-    location: Washington, DC
+    location: Washington, DC, USA
     date_start: '2020-05-01'
     date_end: '2020-07-31'
     description: |2-
@@ -54,7 +54,7 @@ experience:
     company: Milken Institute School of Public Health, George Washington University
     company_url: 'https://publichealth.gwu.edu'
     company_logo: ''
-    location: Washington, DC
+    location: Washington, DC, USA
     date_start: '2019-05-15'
     date_end: '2019-07-31'
     description: |2-
@@ -67,7 +67,7 @@ experience:
     company: Mind, Behavior, Development group, The World Bank
     company_url: 'https://www.worldbank.org/en/programs/embed'
     company_logo: ''
-    location: Washington, DC
+    location: Washington, DC, USA
     date_start: '2019-05-01'
     date_end: '2019-07-31'
     description: |2-
@@ -76,6 +76,20 @@ experience:
         * Statistical analysis of social norms data from projects in Jordan, Kurdistan, and Republic of Georgia.
         * Estimation of treatment effects from intervention to reduce fertility bias in Republic of Georgia.
         * Sole-authoring working paper on social norms measurement and analysis approaches. 
+
+  - title: Research Associate
+    company: International Initiative for Impact Evaluation (3ie)
+    company_url: 'https://www.3ieimpact.org'
+    company_logo: ''
+    location: New Delhi, India
+    date_start: '2016-02-01'
+    date_end: '2018-07-31'
+    description: |2-
+        Responsibilities include:
+
+        * Program management for $3 million WASH program funded by the Gates Foundation comprising 9 formative evaluations, 4 impact evaluations, and 1 measurement study.
+        * Grant writing for multiple evidence generation programs.
+        * Authoring two systematic reviews.
 
 design:
   columns: '2'
