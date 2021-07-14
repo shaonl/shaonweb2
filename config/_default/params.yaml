@@ -29,8 +29,8 @@ address:
   country: United States
   country_code: US
 coordinates:
-  latitude: '38.9232855'
-  longitude: '-76.9809121'
+  latitude: '38.902058'
+  longitude: '-77.051017'
 contact_links:
   - icon: twitter
     icon_pack: fab
