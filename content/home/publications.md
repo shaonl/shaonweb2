@@ -46,7 +46,7 @@ Jimenez, E., Waddington, H., Goel, N., Prost, A., Pullin, A., White, H., <b>Lahi
 
 <b>Lahiri, S.</b> & Menon, R. (2018). Toilets are being constructed at a remarkable pace, but it’s not a Prem Katha [Love Story] yet for all sections of the population. <i> Op-Ed in the Times of India </i>. https://bit.ly/3r8Az1q. 
 
-<b>Lahiri, S.</b>, Yegbemey, R. N., Goel, N., Mathew, L., & Puri, J. (2017). 3ie Scoping Paper 8. New Delhi: International Initiative for Impact Evaluation
+<b>Lahiri, S.</b>, Yegbemey, R. N., Goel, N., Mathew, L., & Puri, J. (2017). Promoting Latrine Use in Rural India. 3ie Scoping Paper 8. New Delhi: International Initiative for Impact Evaluation
 (3ie). https://www.3ieimpact.org/sites/default/files/2019‑01/sp8‑latrine‑use‑india.pdf.
 
 <b>Lahiri, S.</b>, Van Ommeren, M., & Roberts, B. (2017). The influence of humanitarian crises on social functioning among civilians in low-and middle-income countries: A systematic review. <i>Global Public Health</i>, 12(12), 1461–1478. https://doi.org/10.1080/17441692.2016.1154585.
