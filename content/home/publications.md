@@ -51,7 +51,7 @@ Jimenez, E., Waddington, H., Goel, N., Prost, A., Pullin, A., White, H., <b>Lahi
 
 <b>Lahiri, S.</b>, Van Ommeren, M., & Roberts, B. (2017). The influence of humanitarian crises on social functioning among civilians in low-and middle-income countries: A systematic review. <i>Global Public Health</i>, 12(12), 1461–1478. https://doi.org/10.1080/17441692.2016.1154585.
 
-Lahiri, S., & Puri, J. (2016). The Art and Science of Winning the Poo War. <i>Business World</i>. https://bit.ly/3ehVKce. 
+<b>Lahiri, S.<b>, & Puri, J. (2016). The Art and Science of Winning the Poo War. <i>Business World</i>. <a href="http://www.businessworld.in/article/The-Art-And-Science-Of-Winning-The-Poo-War/18-10-2016-107044/">Available here</a>.
 
 Al Asmi, A., Al Maniri, A., Al-Farsi, Y.M., Burke, D.T., Al Asfoor, F.M., Al Busaidi, I., Al Breiki, M.H., <b>Lahiri, S.</b>, Braidy, N., Essa, M.M. & Al-Adawi, S. (2013). Types and Sociodemographic Correlates of Complementary and Alternative Medicine (CAM) Use among People with Epilepsy in Oman. <i>Epilepsy & Behavior</i>, 29(2), pp.361-366. https://doi.org/10.1016/j.yebeh.2013.07.022.
 
