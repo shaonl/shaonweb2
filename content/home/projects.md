@@ -42,7 +42,7 @@ Snowden, B., <b>Lahiri, S.</b>, Dutton, R., & Morton, L. Achieving and Sustainin
 <small>This study systematically reviews the evidence for sustainable and effective training approaches for global health intervention cadres. </small> 
 
 <b>Lahiri, S.</b>, Bingenheimer, J., Sedlander, E., Munar, W., & Rimal, R. The Role of Social Norms on Adolescent Family Planning in Rural
-Kilifi County, Kenya. Under review at the <i>PLOS ONE</i>. 
+Kilifi County, Kenya. Under review at <i>PLOS ONE</i>. 
 <br>
 <small> Using sociocentric social network data, this study estimates the social influence of important others on individual modern contraceptive use among adolescents in rural Kenya. </small>
 
