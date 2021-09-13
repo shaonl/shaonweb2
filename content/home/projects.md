@@ -37,7 +37,7 @@ design:
 <br>
 <small>This chapter provides a brief overview of social norms conceptual/theoretical approaches used in the field of sexual and reproductive health, followed by an illustration of intervention approaches targeted at different socioecological levels. </small> 
 
-Snowden, B., <b>Lahiri, S.</b>, Dutton, R., & Morton, L. Achieving and Sustaining Change Through Capacity Building Train-the-Trainer Health Initiatives in Low- and Middle-Income Countries: A Systematic Review. Under review at the <i>Global Health: Science and Practice</i>. 
+Snowden, B., <b>Lahiri, S.</b>, Dutton, R., & Morton, L. Achieving and Sustaining Change Through Capacity Building Train-the-Trainer Health Initiatives in Low- and Middle-Income Countries: A Systematic Review. Under review at the <i>The Journal of Continuing Education in the Health Professions</i>. 
 <br>
 <small>This study systematically reviews the evidence for sustainable and effective training approaches for global health intervention cadres. </small> 
 
