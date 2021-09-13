@@ -17,7 +17,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Data wrangling & management, statistical analysis, data visualization, manuscript preparation.
+- description: Data wrangling & management, statistical analysis (frequentist and Bayesian), data visualization, manuscript preparation.
   name: R/RStudio/RMarkdown
 
 - description: Data wrangling & management, statistical analysis, data visualization.
@@ -25,7 +25,10 @@ feature:
 
 - description: Data wrangling & management, statistical analysis
   name: SPSS
- 
+
+- description: Statistical analysis.
+  name: SAS
+  
 - description: Latent growth modeling.
   name: MPlus
   
@@ -33,9 +36,12 @@ feature:
   name: NVivo
   
 - description: Reference management
-  name: Zotero
+  name: Zotero/Mendeley/Endnote
 
-- description: Systematic review, meta-analysis, Covidence, Endnote, quality assessment
+- description: Systematic review screening and quality assessment
+  name: Covidence
+
+- description: Systematic review, meta-analysis, quality assessment
   name: Evidence synthesis 
   
 - description: General linear model, mixed effects modeling, Bayesian regression, latent variable modeling, factor analysis, treatment effect estimation
