@@ -25,6 +25,9 @@ feature:
 
 - description: Data wrangling & management, statistical analysis
   name: SPSS
+ 
+- description: Latent growth modeling.
+  name: MPlus
   
 - description: Qualitative coding and analysis, basic visualization
   name: NVivo
