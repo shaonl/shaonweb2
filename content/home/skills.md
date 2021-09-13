@@ -50,7 +50,7 @@ feature:
 - description: Selection of appropriate measures, development of appropriate measures, split half design, psychometric assessment
   name: Survey design
  
-- description: Case studies, use of qualitative research in impact evaluation, coding, key informant interviews
+- description: Case studies, use of qualitative research in impact evaluation, thematic coding, in-depth interviews
   name: Qualitative research
 
 
