@@ -58,7 +58,13 @@ Levtov, R., Doyle, K., Bingenheimer, J., <b>Lahiri, S.</b>, Kazimbaya, S., Karam
 <br>
 <small> Using data from a longitudinal field trial, this study investigates the treatment effects from an intimate partner violence prevention intervention among couples in Rwanda using stuctural equation modeling. </small>
 
+<b>Lahiri, S.</b> Dissertation Paper 1: A Latent Growth Modeling Analysis of Social Norms and Tobacco Use among Adult Smokers in Mainland China. In preparation. 
+<br>
+<small> Modeling change as a latent process, this study seeks to understand what the relationship between social norms and tobacco use change change is, over time, and what predicts the variation between individuals in this relationship. Several latent growth models are fit to answer research questions. </small>
 
+<b>Lahiri, S.</b> Dissertation Paper 2: Social Norms Change and Tobacco Use: A Systematic Review and Meta-Analysis of Interventions. In preparation. 
+<br>
+<small> Focusing on the underlying mechanisms of social norms change interventions, this study systematically reviews the experimental and quasi-experimental intervention literature in which social norms interventions (broadly defined) are used to change tobacco use. A random-effects meta-analysis of effect sizes will be constructed. </small>
 
 
 
