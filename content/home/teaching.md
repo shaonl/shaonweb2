@@ -32,14 +32,10 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-
-<b> Social & Behavioral Science Research Methods (Master's) </b>. Teaching assistant. General linear modeling concepts, applications in SPSS, 
-data analysis, and introduce to scale development.
+<b> Practical Data Management and Analysis for Public Health (Master's) </b>. Adjunct Lecturer. Practical approaches to manage data, and basic statistical analyses in SPSS.
 
 <ol>
-  <li> Fall 2018 (In-Person) </li>
-  <li> Fall 2019 (In-Person) </li>
-  <li> Fall 2020 (Online) </li>
+  <li> Fall 2021 (Online) </li>
 </ol>
 
 <b> Social & Behavioral Approaches to Health (Master's) </b>. Teaching Assistant. Overview of health behavior theories and program planning concepts.
@@ -48,6 +44,16 @@ data analysis, and introduce to scale development.
   <li> Spring 2019 (In-Person) </li>
   <li> Spring 2020 (Hybrid) </li>
   <li> Spring 2021 (Online) </li>
+  <li> Fall 2021 (In-Person) </li>
+</ol>
+
+<b> Social & Behavioral Science Research Methods (Master's) </b>. Teaching assistant. General linear modeling concepts, applications in SPSS, 
+data analysis, and introduce to scale development.
+
+<ol>
+  <li> Fall 2018 (In-Person) </li>
+  <li> Fall 2019 (In-Person) </li>
+  <li> Fall 2020 (Online) </li>
 </ol>
 
 <b> Public Health Marketing (Master’s) </b>. Teaching Assistant. Overview of public health communication and marketing approaches.
