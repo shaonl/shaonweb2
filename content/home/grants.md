@@ -32,7 +32,7 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-The Society of Multivariate Experimental Psychology 2020 SMEP Underrepresented Student Workshop Travel Award. (2020). Recipient: Shaon Lahiri. $455.
+The Society of Multivariate Experimental Psychology 2020 SMEP Underrepresented Student Workshop Travel Award. (2020). Recipient: Shaon Lahiri. 
 
 Berkeley Initiative for Transparency in the Social Sciences (BITSS) acceptance to Research Transparency and Reproducibility Training. (2020). Recipient: Shaon Lahiri. Tuition Waver and Acceptance to Training. 
 
