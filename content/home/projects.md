@@ -46,6 +46,10 @@ Kilifi County, Kenya. Under review at <i>PLOS ONE</i>.
 <br>
 <small> Using sociocentric social network data, this study estimates the social influence of important others on individual modern contraceptive use among adolescents in rural Kenya. </small>
 
+<b>Lahiris, S.</b>, Bingenheimer, J., Evans, W.D., Wang, Y., Dubey, P., & Snowden, B. 	Social Norms Change and Tobacco Use: A Protocol for a Systematic Review and Meta-Analysis of Interventions. Under review at the <i> International Journal of Environmental Research and Public Health </i>.
+<br>
+<small> This is protocol for a systematic review and meta-analysis of social norms interventions that attempt to change tobacco use (initiation, consumption, uptake, or cessation). Particular attention is paid to the social norms change mechanisms employed across interventions. </small>
+
 <b>Lahiri, S. </b> & Munoz-Boudet, A. M. Social Norms Measurement and Analysis: Some Approaches and Applications. In preparation for submission to <i>World Bank Working Paper Series</i>. 
 <br>
 <small> This working paper presents an overview of prominent measurement social norms measurement approaches, as well as a suite of diverse analytical approaches with applications in Stata using social norms data from World Bank projects in Jordan, Morocco, and Kurdistan. </small>
