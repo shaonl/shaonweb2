@@ -32,13 +32,13 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-<b> Practical Data Management and Analysis for Public Health (Master's) </b>. Adjunct Lecturer. Practical approaches to manage data, and basic statistical analyses in SPSS.
+<b> Practical Data Management and Analysis for Public Health (Master's) </b>. Adjunct Lecturer. Practical approaches to managing data, General Linear Model concepts, SPSS data analysis, and basic survey design.
 
 <ol>
   <li> Fall 2021 (Online) </li>
 </ol>
 
-<b> Social & Behavioral Approaches to Health (Master's) </b>. Teaching Assistant. Overview of health behavior theories and program planning concepts.
+<b> Social & Behavioral Approaches to Health (Master's) </b>. Teaching Assistant. Overview and application of health behavior theories and program planning concepts.
 
 <ol>
   <li> Spring 2019 (In-Person) </li>
@@ -48,7 +48,7 @@ design:
 </ol>
 
 <b> Social & Behavioral Science Research Methods (Master's) </b>. Teaching assistant. General linear modeling concepts, applications in SPSS, 
-data analysis, and introduce to scale development.
+data analysis, and basic survey design.
 
 <ol>
   <li> Fall 2018 (In-Person) </li>
