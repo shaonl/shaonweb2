@@ -50,13 +50,13 @@ Kilifi County, Kenya. Under review at <i>PLOS ONE</i>.
 <br>
 <small> This is protocol for a systematic review and meta-analysis of social norms interventions that attempt to change tobacco use (initiation, consumption, uptake, or cessation). Particular attention is paid to the social norms change mechanisms employed across interventions. </small>
 
+<b>Lahiri, S. </b>, Hull, S., Scott, R., & Sinks, H. Leveraging Small Samples Using a Bayesian Approach in Communications Studies. Under review at <i> Communications Methods and Measures </i>. 
+<br>
+<small> This study demonstrates the utility of Bayesian regression for small samples using data from a study on determinants of Pre-Exposure Prophylaxis (PrEP) self-efficacy among a sample of Black women attending a clinic in Washington DC. </small>
+
 <b>Lahiri, S. </b> & Munoz-Boudet, A. M. Social Norms Measurement and Analysis: Some Approaches and Applications. In preparation for submission to <i>World Bank Working Paper Series</i>. 
 <br>
 <small> Overview of interdisciplinary social norms measurement and analytical approaches in Stata using social norms data from World Bank projects in Jordan, Morocco, and Kurdistan. </small>
-
-<b>Lahiri, S. </b>, Hull, S., Scott, R., & Sinks, H. Leveraging Small Samples Using a Bayesian Approach in Communications Studies. In preparation for submission to <i> Communications Methods and Measures </i>. 
-<br>
-<small> This study demonstrates the utility of Bayesian regression for small samples using data from a study on determinants of Pre-Exposure Prophylaxis (PrEP) self-efficacy among a sample of Black women attending a clinic in Washington DC. </small>
 
 Levtov, R., Doyle, K., Bingenheimer, J., <b>Lahiri, S.</b>, Kazimbaya, S., Karamage, E., Sayinzoga, F., et al. Improved relationship quality, equitable gender attitudes, and reduced alcohol abuse as key mechanisms to reduce intimate partner violence in the Bandebereho couples’ intervention in Rwanda. In preparation for submission to <i> Prevention Science </i>. 
 <br>
