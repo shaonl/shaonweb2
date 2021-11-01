@@ -54,13 +54,13 @@ Kilifi County, Kenya. Under review at <i>PLOS ONE</i>.
 <br>
 <small> This study demonstrates the utility of Bayesian regression for small samples using data from a study on determinants of Pre-Exposure Prophylaxis (PrEP) self-efficacy among a sample of Black women attending a clinic in Washington DC. </small>
 
+Levtov, R., Doyle, K., Bingenheimer, J., <b>Lahiri, S.</b>, Kazimbaya, S., Karamage, E., Sayinzoga, F., et al. Improved relationship quality, equitable gender attitudes, and reduced alcohol abuse as key mechanisms to reduce intimate partner violence in the Bandebereho couples’ intervention in Rwanda. Under review at <i> Prevention Science </i>. 
+<br>
+<small> Using data from a longitudinal field trial, this study investigates the treatment effects from an intimate partner violence prevention intervention among couples in Rwanda using stuctural equation modeling. </small>
+
 <b>Lahiri, S. </b> & Munoz-Boudet, A. M. Social Norms Measurement and Analysis: Some Approaches and Applications. In preparation for submission to <i>World Bank Working Paper Series</i>. 
 <br>
 <small> Overview of interdisciplinary social norms measurement and analytical approaches in Stata using social norms data from World Bank projects in Jordan, Morocco, and Kurdistan. </small>
-
-Levtov, R., Doyle, K., Bingenheimer, J., <b>Lahiri, S.</b>, Kazimbaya, S., Karamage, E., Sayinzoga, F., et al. Improved relationship quality, equitable gender attitudes, and reduced alcohol abuse as key mechanisms to reduce intimate partner violence in the Bandebereho couples’ intervention in Rwanda. In preparation for submission to <i> Prevention Science </i>. 
-<br>
-<small> Using data from a longitudinal field trial, this study investigates the treatment effects from an intimate partner violence prevention intervention among couples in Rwanda using stuctural equation modeling. </small>
 
 <b>Lahiri, S.</b> Dissertation Paper 1: A Latent Growth Modeling Analysis of Social Norms and Tobacco Use among Adult Smokers in Mainland China. In preparation. 
 <br>
