@@ -21,7 +21,7 @@ feature:
 - description: Systematic review, meta-analysis, quality assessment
   name: Evidence synthesis 
   
-- description: General linear model, mixed effects modeling, Bayesian regression, latent variable modeling, factor analysis, treatment effect estimation
+- description: General linear model, mixed effects modeling, Bayesian regression, latent variable modeling, factor analysis, treatment effect estimation, sample size calculation
   name: Statistical analysis
 
 - description: Selection of appropriate measures, development of appropriate measures, split half design, psychometric assessment
