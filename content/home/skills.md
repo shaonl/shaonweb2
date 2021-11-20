@@ -57,10 +57,14 @@ feature:
   description: Systematic review screening and quality assessment
   name: Covidence
 
-- description: Preparation of manuscripts using Latex
+- icon: overleaf
+  icon_pack: ai
+  description: Preparation of manuscripts using Latex
   name: Overleaf
 
-- description: Version control/Website Preparation/Creating Timelines
+- icon: github
+  icon_pack: fab
+  description: Version control/Website Preparation/Creating Timelines
   name: Git/Github/GitKraken
 
 
