@@ -48,6 +48,9 @@ feature:
 - description: Version control/Website Preparation/Creating Timelines
   name: Git/Github/GitKraken
 
+title: Skills
+subtitle: Software-specific
+
 - description: Systematic review, meta-analysis, quality assessment
   name: Evidence synthesis 
   
