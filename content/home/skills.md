@@ -18,7 +18,9 @@ subtitle: Software-specific
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 
-- description: Data wrangling & management, statistical analysis (frequentist and Bayesian), data visualization, manuscript preparation
+- icon: r-project
+  icon_pack: fab
+  description: Data wrangling & management, statistical analysis (frequentist and Bayesian), data visualization, manuscript preparation
   name: R/RStudio/RMarkdown
 
 - description: Data wrangling & management, statistical analysis, data visualization
