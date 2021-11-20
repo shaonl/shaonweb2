@@ -33,4 +33,6 @@ feature:
 - description: Teaching undergraduate and Master's students (See Teaching Section) and curriculum development
   name: Pedagogy
   
+- description: Pre-registration, teaching concepts related to reproducibility and replication, Protocol paper and pre-analysis plan authorship, tranparent coding practices
+  name: Research Transparency and Reproducibility  
 ---
