@@ -41,6 +41,8 @@ contact_links:
     name: Message me on Linkedin
     link: 'https://www.linkedin.com/in/shaon-lahiri-131aaa97/'
 
+footer:
+  show_translations: true
 
 # Site header
 
