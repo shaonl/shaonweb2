@@ -17,6 +17,8 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+
+Software-specific skills
 - description: Data wrangling & management, statistical analysis (frequentist and Bayesian), data visualization, manuscript preparation.
   name: R/RStudio/RMarkdown
 
@@ -41,6 +43,12 @@ feature:
 - description: Systematic review screening and quality assessment
   name: Covidence
 
+- description: Preparation of manuscripts using Latex. 
+  name: Overleaf
+
+- description: Version control/Website Preparation/Creating Timelines
+  name: Git/Github/GitKraken
+
 - description: Systematic review, meta-analysis, quality assessment
   name: Evidence synthesis 
   
@@ -53,11 +61,7 @@ feature:
 - description: Case studies, use of qualitative research in impact evaluation, thematic coding, in-depth interviews
   name: Qualitative research
 
-- description: Preparation of manuscripts using Latex. 
-  name: Overleaf
 
-- description: Version control/Website Preparation/Creating Timelines
-  name: Git/Github/GitKraken
 
 
 # Uncomment to use emoji icons.
