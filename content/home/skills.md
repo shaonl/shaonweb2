@@ -28,7 +28,7 @@ feature:
   name: Stata
 
 - icon: spss
-  icon_pack: spss
+  icon_pack: custom
   description: Data wrangling & management, statistical analysis
   name: SPSS
 
