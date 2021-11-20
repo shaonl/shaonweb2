@@ -24,8 +24,8 @@ email: shaon@gwu.edu
 address:
   street: Department of Prevention and Community Health, Milken Institute School of Public Health, The George Washington University, 950 New Hampshire Ave NW
   city: Washington
-  region: DC
-  postcode: '20052'
+  region: DC,
+  postcode: '20052', USA
   country: United States
   country_code: US
 coordinates:
