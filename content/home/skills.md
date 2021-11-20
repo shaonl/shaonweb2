@@ -37,7 +37,9 @@ feature:
   description: Statistical analysis
   name: SAS
   
-- description: Latent growth modeling
+- icon: mplus
+  icon_pack: custom
+  description: Latent growth modeling (Bayesian and Frequentist)
   name: MPlus
   
 - description: Qualitative coding and analysis, basic visualization
