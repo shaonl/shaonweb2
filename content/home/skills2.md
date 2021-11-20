@@ -29,5 +29,8 @@ feature:
  
 - description: Case studies, use of qualitative research in impact evaluation, thematic coding, in-depth interviews
   name: Qualitative research
+
+- description: Teaching undergraduate and Master's students (See Teaching Section) and curriculum development
+  name: Pedagogy
   
 ---
