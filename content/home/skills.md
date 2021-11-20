@@ -27,7 +27,9 @@ feature:
   description: Data wrangling & management, statistical analysis, data visualization
   name: Stata
 
-- description: Data wrangling & management, statistical analysis
+- icon: spss
+  icon_pack: spss
+  description: Data wrangling & management, statistical analysis
   name: SPSS
 
 - description: Statistical analysis
