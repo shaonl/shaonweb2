@@ -32,7 +32,7 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-<b> Practical Data Management and Analysis for Public Health (Master's) </b>. Adjunct Lecturer. Practical approaches to managing data, General Linear Model concepts, SPSS data analysis, and basic survey design.
+<b> Practical Data Management and Analysis for Public Health (Master's) </b>. Adjunct Lecturer. Practical approaches to managing data, General Linear Model concepts, SPSS data analysis and interpretation.
 
 <ol>
   <li> Fall 2021 (Online) </li>
