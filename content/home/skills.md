@@ -42,13 +42,19 @@ feature:
   description: Latent growth modeling (Bayesian and Frequentist)
   name: MPlus
   
-- description: Qualitative coding and analysis, basic visualization
+- icon: nvivo
+  icon_pack: custom
+  description: Qualitative coding and analysis, basic visualization
   name: NVivo
   
-- description: Reference management
+- icon: zotero
+  icon_pack: custom
+  description: Reference management
   name: Zotero/Mendeley/Endnote
 
-- description: Systematic review screening and quality assessment
+- icon: covidence
+  icon_pack: custom
+  description: Systematic review screening and quality assessment
   name: Covidence
 
 - description: Preparation of manuscripts using Latex
