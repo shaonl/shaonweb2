@@ -85,3 +85,5 @@ I focus on bridging health behavior theory with a range of rigorous quantitative
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Shaon_Lahiri_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3104.9583104978383!2d-77.05305278437991!3d38.902068654273464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b7b3e37c68ff%3A0x8606579d3cdb5b5f!2s950%20New%20Hampshire%20Ave%20NW%2C%20Washington%2C%20DC%2020052!5e0!3m2!1sen!2sus!4v1637425533148!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
