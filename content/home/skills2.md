@@ -18,21 +18,33 @@ subtitle: General
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 
-- description: Systematic review, meta-analysis, quality assessment
+- icon: mortar-pestle
+  icon_pack: fas
+  description: Systematic review, meta-analysis, quality assessment
   name: Evidence synthesis 
   
-- description: General linear model, mixed effects modeling, Bayesian regression, latent variable modeling, factor analysis, treatment effect estimation, sample size calculation
+- icon: bayes
+  icon_pack: custom
+  description: General linear model, mixed effects modeling, Bayesian regression, latent variable modeling, factor analysis, treatment effect estimation, sample size calculation
   name: Statistical analysis
 
-- description: Selection of appropriate measures, development of appropriate measures, split half design, psychometric assessment
+- icon: survey
+  icon_pack: custom
+  description: Selection of appropriate measures, development of appropriate measures, split half design, psychometric assessment
   name: Survey design
  
-- description: Case studies, use of qualitative research in impact evaluation, thematic coding, in-depth interviews
+- icon: interview
+  icon_pack: custom
+  description: Case studies, use of qualitative research in impact evaluation, thematic coding, in-depth interviews
   name: Qualitative research
 
-- description: Teaching undergraduate and Master's students (See Teaching Section) and curriculum development
+- icon: chalkboard-teacher
+  icon_pack: fas
+  description: Teaching undergraduate and Master's students (See Teaching Section) and curriculum development
   name: Pedagogy
   
-- description: Pre-registration, teaching concepts related to reproducibility and replication, Protocol paper and pre-analysis plan authorship, tranparent coding practices
+- icon: preregistered
+  icon_pack: ai
+  description: Pre-registration, teaching concepts related to reproducibility and replication, Protocol paper and pre-analysis plan authorship, tranparent coding practices
   name: Research Transparency and Reproducibility  
 ---
