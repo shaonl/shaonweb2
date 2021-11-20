@@ -46,11 +46,7 @@ Kilifi County, Kenya. Under review at <i>PLOS ONE</i>.
 <br>
 <small> Using sociocentric social network data, this study estimates the social influence of important others on individual modern contraceptive use among adolescents in rural Kenya. </small>
 
-<b>Lahiris, S.</b>, Bingenheimer, J., Evans, W.D., Wang, Y., Dubey, P., & Snowden, B. 	Social Norms Change and Tobacco Use: A Protocol for a Systematic Review and Meta-Analysis of Interventions. Under review at the <i> International Journal of Environmental Research and Public Health </i>.
-<br>
-<small> This is protocol for a systematic review and meta-analysis of social norms interventions that attempt to change tobacco use (initiation, consumption, uptake, or cessation). Particular attention is paid to the social norms change mechanisms employed across interventions. </small>
-
-<b>Lahiri, S. </b>, Hull, S., Scott, R., & Sinks, H. Leveraging Small Samples Using a Bayesian Approach in Communications Studies. Under review at <i> Communications Methods and Measures </i>. 
+<b>Lahiri, S. </b>, Hull, S., Scott, R., & Sinks, H. Leveraging Small Samples Using a Bayesian Approach in Communications Studies. Under review at <i> Health Communication </i>. 
 <br>
 <small> This study demonstrates the utility of Bayesian regression for small samples using data from a study on determinants of Pre-Exposure Prophylaxis (PrEP) self-efficacy among a sample of Black women attending a clinic in Washington DC. </small>
 
