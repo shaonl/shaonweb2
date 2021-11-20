@@ -48,20 +48,6 @@ feature:
 - description: Version control/Website Preparation/Creating Timelines
   name: Git/Github/GitKraken
 
-title: Skills
-subtitle: Software-specific
-
-- description: Systematic review, meta-analysis, quality assessment
-  name: Evidence synthesis 
-  
-- description: General linear model, mixed effects modeling, Bayesian regression, latent variable modeling, factor analysis, treatment effect estimation
-  name: Statistical analysis
-
-- description: Selection of appropriate measures, development of appropriate measures, split half design, psychometric assessment
-  name: Survey design
- 
-- description: Case studies, use of qualitative research in impact evaluation, thematic coding, in-depth interviews
-  name: Qualitative research
 
 
 
