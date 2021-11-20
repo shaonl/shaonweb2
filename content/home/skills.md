@@ -53,6 +53,12 @@ feature:
 - description: Case studies, use of qualitative research in impact evaluation, thematic coding, in-depth interviews
   name: Qualitative research
 
+- description: Preparation of manuscripts using Latex. 
+  name: Overleaf
+
+- description: Version control/Website Preparation/Creating Timelines
+  name: Git/Github/GitKraken
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
