@@ -65,8 +65,6 @@ social:
   icon_pack: ai
   link: https://osf.io/yc5vf/
   
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3104.9583104978383!2d-77.05305278437991!3d38.902068654273464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b7b3e11ba50b%3A0x9c1077280a36f048!2sMilken%20Institute%20School%20of%20Public%20Health!5e0!3m2!1sen!2sus!4v1637425665641!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
