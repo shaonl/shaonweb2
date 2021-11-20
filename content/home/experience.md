@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate Teaching Assistant
+  - title: Graduate Teaching Assistant/Adjunct Lecturer
     company: Milken Institute School of Public Health, George Washington University
     company_url: 'https://publichealth.gwu.edu'
     company_logo: ''
