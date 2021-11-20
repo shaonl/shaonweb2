@@ -18,7 +18,6 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 
-subtitle: Software-specific skills
 - description: Data wrangling & management, statistical analysis (frequentist and Bayesian), data visualization, manuscript preparation.
   name: R/RStudio/RMarkdown
 
