@@ -23,6 +23,7 @@ feature:
   description: Data wrangling & management, statistical analysis (frequentist and Bayesian), data visualization, manuscript preparation
   
 - icon: stata
+  icon_pack: custom
   description: Data wrangling & management, statistical analysis, data visualization
   name: Stata
 
