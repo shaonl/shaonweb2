@@ -32,7 +32,9 @@ feature:
   description: Data wrangling & management, statistical analysis
   name: SPSS
 
-- description: Statistical analysis
+- icon: sas
+  icon_pack: custom
+  description: Statistical analysis
   name: SAS
   
 - description: Latent growth modeling
