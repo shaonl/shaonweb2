@@ -23,7 +23,7 @@ feature:
   description: Systematic review, meta-analysis, quality assessment
   name: Evidence synthesis 
   
-- icon: bayes
+- icon: statistics
   icon_pack: custom
   description: General linear model, mixed effects modeling, Bayesian regression, latent variable modeling, factor analysis, treatment effect estimation, sample size calculation
   name: Statistical analysis
