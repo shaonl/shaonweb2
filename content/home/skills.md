@@ -19,7 +19,7 @@ subtitle: Software-specific
 feature:
 - icon: r-project
   icon_pack: fab
-  name: R/RStudio/RMarkdown
+  name: R
   description: Data wrangling & management, statistical analysis (frequentist and Bayesian), data visualization, manuscript preparation
   
 - description: Data wrangling & management, statistical analysis, data visualization
