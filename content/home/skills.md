@@ -11,26 +11,26 @@ active: true
 weight: 16
 
 title: Skills
-subtitle:
+subtitle: Software-specific
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 
-- description: Data wrangling & management, statistical analysis (frequentist and Bayesian), data visualization, manuscript preparation.
+- description: Data wrangling & management, statistical analysis (frequentist and Bayesian), data visualization, manuscript preparation
   name: R/RStudio/RMarkdown
 
-- description: Data wrangling & management, statistical analysis, data visualization.
+- description: Data wrangling & management, statistical analysis, data visualization
   name: Stata
 
 - description: Data wrangling & management, statistical analysis
   name: SPSS
 
-- description: Statistical analysis.
+- description: Statistical analysis
   name: SAS
   
-- description: Latent growth modeling.
+- description: Latent growth modeling
   name: MPlus
   
 - description: Qualitative coding and analysis, basic visualization
@@ -42,7 +42,7 @@ feature:
 - description: Systematic review screening and quality assessment
   name: Covidence
 
-- description: Preparation of manuscripts using Latex. 
+- description: Preparation of manuscripts using Latex
   name: Overleaf
 
 - description: Version control/Website Preparation/Creating Timelines
