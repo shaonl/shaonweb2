@@ -79,7 +79,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a social and behavioral scientist in the field of public health. I study social processes across a number of behaviors that impact health, such as modern contraceptive use, intimate partner violence, Pre-Exposure Prophylaxis use, and tobacco consumption. My focus area is on the measurement, conceptualization, and influence of social norms on behavior across a variety of settings and contexts. In particular, I am interested in the dynamics of social norms change, and how such changes manifest in multiple socioecological levels across diverse sociopolitical structures and institutions.  
+I am a social and behavioral scientist in the field of public health. I study social processes across a number of behaviors that impact health, such as modern contraceptive use, intimate partner violence, Pre-Exposure Prophylaxis use, and tobacco consumption. My focus area is on the measurement, conceptualization, and influence of social norms across a variety of behavioral contexts. In particular, I am interested in the dynamics of social norms change, and how such changes manifest in multiple socioecological levels across diverse sociopolitical structures and institutions.  
 
 I focus on bridging health behavior theory with a range of rigorous quantitative statistical approaches. Methodologically, I am most interested in latent variable methods for longitudinal data (traditional SEMs and latent growth models), Bayesian regression (especially using informative priors), factor analysis, and meta-analysis.
 
