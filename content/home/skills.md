@@ -31,11 +31,6 @@ feature:
   icon_pack: custom
   description: Data wrangling & management, statistical analysis
   name: SPSS
-
-- icon: sas
-  icon_pack: custom
-  description: Statistical analysis
-  name: SAS
   
 - icon: mplus
   icon_pack: custom
