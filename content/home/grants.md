@@ -32,6 +32,8 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+Berkeley Initiative for Transparency in the Social Sciences Catalyst Grant for Advancing Transparent, Reproducible, and Ethical Research. (2021). For the project: "Research Transparency and Reproducibility: A Complementary Module for All." This set of training materials will be made available on the Open Science Framework by May 31, 2022.
+
 The Society of Multivariate Experimental Psychology 2020 SMEP Underrepresented Student Workshop Travel Award. (2020). 
 
 Berkeley Initiative for Transparency in the Social Sciences (BITSS) acceptance to Research Transparency and Reproducibility Training. (2020). Tuition Waver and Acceptance to Training. 
