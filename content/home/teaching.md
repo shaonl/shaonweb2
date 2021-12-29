@@ -36,6 +36,7 @@ design:
 
 <ol>
   <li> Fall 2021 (Online) </li>
+  <li> Spring 2022 (Online) </li>
 </ol>
 
 <b> Social & Behavioral Approaches to Health (Master's) </b>. Teaching Assistant. Overview and application of health behavior theories and program planning concepts.
@@ -45,6 +46,7 @@ design:
   <li> Spring 2020 (Hybrid) </li>
   <li> Spring 2021 (Online) </li>
   <li> Fall 2021 (In-Person) </li>
+  <li> Spring 2022 (Hybrid) </li>
 </ol>
 
 <b> Social & Behavioral Science Research Methods (Master's) </b>. Teaching assistant. General linear modeling concepts, applications in SPSS, 
