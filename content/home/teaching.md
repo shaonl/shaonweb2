@@ -46,7 +46,7 @@ design:
   <li> Spring 2020 (Hybrid) </li>
   <li> Spring 2021 (Online) </li>
   <li> Fall 2021 (In-Person) </li>
-  <li> Spring 2022 (Hybrid) </li>
+  <li> Spring 2022 (In-Person) </li>
 </ol>
 
 <b> Social & Behavioral Science Research Methods (Master's) </b>. Teaching assistant. General linear modeling concepts, applications in SPSS, 
