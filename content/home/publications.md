@@ -38,6 +38,8 @@ design:
   view: 4
 ---
 
+<b>Lahiri, S.</b>, Bingenheimer, J., & Costenbader, E. (2022). Social and Gender Norms Influencing Sexual and Reproductive Health: Conceptual Approaches, Intervention Strategies, and Evidence. In Press at the <i>Oxford Research Encyclopedia of Global Public Health</i>.
+
 <b>Lahiri, S.</b>, Bingenheimer, J.B., Evans, W.D., Wang, Y., Dubey, P., & Snowden, B (2021). Social Norms Change and Tobacco Use: A Protocol for a Systematic Review and Meta-Analysis of Interventions. <i> International Journal of Environmental Research and Public Health </i>, 18(22), 12186. https://doi.org/10.3390/ijerph182212186.
 
 Sedlander, E., Bingenheimer, J. B., <b>Lahiri, S.</b>, Thiongo, M., Gichangi, P., Munar, W., & Rimal, R. N. (2021). Does the Belief That Contraceptive Use Causes Infertility Actually Affect Use? Findings from a Social Network Study in Kenya. <i>Studies in Family Planning</i>. https://doi.org/10.1111/sifp.12157.
