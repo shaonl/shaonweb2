@@ -6,15 +6,15 @@ title: Shaon Lahiri
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate, Social & Behavioral Sciences in Public Health
+role: Philosophy, Politics & Economics Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Milken Institute School of Public Health, George Washington University
-  url: https://publichealth.gwu.edu
+- name: University of Pennsylvania
+  url: https://ppe.sas.upenn.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is focused on the social determinants of health, particularly how social norms influence behavior.
+bio: My research is focused on how social norms influence behavior across a number of contexts.
 
 # Interests to show in About widget
 interests:
@@ -27,7 +27,7 @@ education:
   courses:
   - course: Doctor of Philosophy in Social & Behavioral Sciences in Public Health
     institution: George Washington University
-    year: 2018 - Present
+    year: 2018 - 2022
   - course: Master of Public Health (Global Health Stream)
     institution: Imperial College London
     year: 2014
