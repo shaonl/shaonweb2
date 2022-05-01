@@ -26,7 +26,7 @@ experience:
   - title: Philosophy, Politics & Economics Postdoctoral Researcher
     company: University of Pennsylvania
     company_url: https://ppe.sas.upenn.edu
-    company_logo: penn.jpg
+    company_logo: penn
     location: Philadelphia, PA, USA
     date_start: '2022-07-01'
     date_end: ''  
