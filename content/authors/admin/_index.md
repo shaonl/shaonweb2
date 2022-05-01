@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shaon Lahiri
+title: Shaon Lahiri, PhD, MPH
 
 # Is this the primary user of the site?
 superuser: true
