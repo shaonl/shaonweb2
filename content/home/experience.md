@@ -29,7 +29,7 @@ experience:
     company_logo: ''
     location: Washington, DC, USA
     date_start: '2018-09-01'
-    date_end: ''
+    date_end: '2022-04-29'
     description: |2-
         Responsibilities include:
         
