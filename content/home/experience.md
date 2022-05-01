@@ -29,7 +29,8 @@ experience:
     company_logo: ''
     location: Philadelphia, PA, USA
     date_start: '2022-07-01'
-    date_end: 'Present'  
+    date_end: ''  
+    description: ''
 
   - title: Graduate Teaching Assistant/Adjunct Lecturer
     company: Milken Institute School of Public Health, George Washington University
