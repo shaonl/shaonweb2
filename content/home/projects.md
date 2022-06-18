@@ -42,7 +42,7 @@ Kilifi County, Kenya. Under review at <i>PLOS ONE</i>.
 <br>
 <small> Using sociocentric social network data, this study estimates the social influence of important others on individual modern contraceptive use among adolescents in rural Kenya. </small>
 
-<b>Lahiri, S. </b>, Hull, S., Scott, R., & Sinks, H. Leveraging Small Samples Using a Bayesian Approach in Communications Studies. Under review at <i> Health Communication </i>. 
+<b>Lahiri, S. </b>, Hull, S., Scott, R., & Sinks, H. Leveraging Small Samples Using a Bayesian Approach in Communications Studies. <i> In preparation </i>. 
 <br>
 <small> This study demonstrates the utility of Bayesian regression for small samples using data from a study on determinants of Pre-Exposure Prophylaxis (PrEP) self-efficacy among a sample of Black women attending a clinic in Washington DC. </small>
 
