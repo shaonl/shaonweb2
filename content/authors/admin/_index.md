@@ -27,7 +27,7 @@ education:
   courses:
   - course: Doctor of Philosophy in Social & Behavioral Sciences in Public Health
     institution: George Washington University
-    year: 2018 - 2022
+    year: 2022
   - course: Master of Public Health (Global Health Stream)
     institution: Imperial College London
     year: 2014
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:shaon@gwu.edu
+  link: mailto:shaonlahiri@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ShaonLahiri
@@ -63,7 +63,7 @@ social:
   link: https://orcid.org/0000-0001-9797-9566
 - icon: osf
   icon_pack: ai
-  link: https://osf.io/yc5vf/
+  link: https://osf.io/wv7rg/
   
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -79,9 +79,9 @@ email: ""
 highlight_name: false
 ---
 
-I am a social and behavioral scientist in the field of public health. I study social processes across a number of behaviors that impact health, such as modern contraceptive use, intimate partner violence, Pre-Exposure Prophylaxis use, and tobacco consumption. My focus area is on the measurement, conceptualization, and influence of social norms across a variety of behavioral contexts. In particular, I am interested in the dynamics of social norms change, and how such changes manifest in multiple socioecological levels across diverse sociopolitical structures and institutions.  
+I am a social and behavioral scientist in the field of public health. I study social processes across a number of behaviors that impact health, such as modern contraception use, intimate partner violence, Pre-Exposure Prophylaxis use, and tobacco consumption. My focus area is on the measurement, conceptualization, and influence of social norms across a variety of behavioral contexts. In particular, I am interested in the dynamics of social norms change, and how such changes manifest in multiple socioecological levels across diverse sociopolitical structures and institutions.  
 
-I focus on bridging health behavior theory with a range of rigorous quantitative statistical approaches. Methodologically, I am most interested in latent variable methods for longitudinal data (traditional SEMs and latent growth models), Bayesian regression (especially using informative priors), factor analysis, and meta-analysis.
+I focus on bridging behavior change theory with a range of rigorous quantitative statistical approaches. Methodologically, I am most interested in latent variable methods for longitudinal data (traditional SEMs and latent growth models), Bayesian regression (especially using informative priors), factor analysis, and meta-analysis.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Shaon_Lahiri_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
