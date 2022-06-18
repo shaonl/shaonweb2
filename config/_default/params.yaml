@@ -22,8 +22,8 @@ twitter: ''
 
 email: shaonlahiri@gmail.com
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: 
+  longitude: 
 contact_links:
   - icon: twitter
     icon_pack: fab
