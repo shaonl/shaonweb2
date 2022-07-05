@@ -45,13 +45,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:shaonlahiri@gmail.com
+  link: mailto:shaonl@sas.upenn.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ShaonLahiri
 - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=Tq0OA8MAAAAJ&inst=4307253268406932729
+  link: https://scholar.google.com/citations?hl=en&user=K44Uu4MAAAAJ&inst=4307253268406932729
 - icon: github
   icon_pack: fab
   link: https://github.com/shaonl
