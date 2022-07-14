@@ -70,7 +70,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/Shaon_Lahiri_CV.pdf
+#   link: uploads/Shaon_Lahiri_Acaemic_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
