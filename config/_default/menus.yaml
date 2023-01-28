@@ -29,7 +29,7 @@ main:
     url: '#contact'
     weight: 100
   - name: CV
-    url: 'uploads/Shaon_Lahiri_Academic_CV.pdf'
+    url: 'uploads/Shaon_Lahiri_ACV.pdf'
     weight: 120
 
 
