@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Shaon Lahiri # Website name
-baseurl: 'https://shaon.com/' # Website URL
-copyright: '©2022 Shaon Lahiri'
+baseurl: 'https://shaonlahiri.com/' # Website URL
+copyright: '©2023 Shaon Lahiri'
 
 ############################
 ## LANGUAGE
