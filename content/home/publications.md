@@ -37,7 +37,11 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
+<b>Lahiri, S.</b>, Bingenheimer, J., Sedlander, E., Munar, W., & Rimal, R. (2023). The Role of Social Norms on Adolescent Family Planning in Rural
+Kilifi County, Kenya. <i>PLOS ONE</i>. 
+<br>
 
+<small> Using sociocentric social network data, this study estimates the social influence of important others on individual modern contraceptive use among adolescents in rural Kenya. </small>
 <b>Lahiri, S.</b>, Bingenheimer, J., & Costenbader, E. (2022). Social and Gender Norms Influencing Sexual and Reproductive Health: Conceptual Approaches, Intervention Strategies, and Evidence. <i>Oxford Research Encyclopedia of Global Public Health</i>. https://doi.org/10.1093/acrefore/9780190632366.013.171. 
 
 <b>Lahiri, S.</b>, Bingenheimer, J.B., Evans, W.D., Wang, Y., Dubey, P., & Snowden, B (2021). Social Norms Change and Tobacco Use: A Protocol for a Systematic Review and Meta-Analysis of Interventions. <i> International Journal of Environmental Research and Public Health </i>, 18(22), 12186. https://doi.org/10.3390/ijerph182212186.
